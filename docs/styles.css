@@ -47,7 +47,7 @@ img {
     border-radius: 10px ;
 }
 
-section > *{
+section > p, h3{
     width: 240px;
 }
 
